@@ -1,4 +1,4 @@
-# JumpToDjango 🚀
+# Jump To Django 🚀
 ### **Do it!** 점프 투 장고
 
 |언제|어디까지|
