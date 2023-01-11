@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Jump To Django 🚀
 ### **Do it!** 점프 투 장고 
